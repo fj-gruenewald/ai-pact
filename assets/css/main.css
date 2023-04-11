@@ -2996,7 +2996,8 @@ input, select, textarea {
 		-webkit-flex-direction: row;
 		-ms-flex-direction: row;
 		flex-direction: row;
-		min-height: 22.5em;
+		min-height: 15em;
+		max-height: 15em
 	}
 
 		body.is-ie .spotlights > section {
@@ -3009,7 +3010,7 @@ input, select, textarea {
 			border-radius: 0;
 			display: block;
 			position: relative;
-			width: 25em;
+			width: 15em;
 		}
 
 			.spotlights > section > .image img {
@@ -3034,7 +3035,7 @@ input, select, textarea {
 			}
 
 		.spotlights > section > .content {
-			padding: 4em 5em 2em 5em ;
+			padding: 5em 1em 5em 1em ;
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
@@ -3256,11 +3257,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #5e42a6;
+			background-color: #412d73;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #5e42a6;
 		}
 
 		.wrapper.fullscreen {
