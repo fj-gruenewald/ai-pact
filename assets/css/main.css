@@ -47,6 +47,13 @@ body {
 	display: inline;
 }
 
+.floatimage{
+	width: -webkit-fill-available;
+	padding-top: 10px;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
 ol, ul {
 	list-style: none;
 }
