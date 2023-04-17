@@ -39,6 +39,14 @@ body {
 	margin-right: auto;
   }
 
+#horizontal ul{
+	list-style: none;
+}
+
+#horizonta li{
+	display: inline;
+}
+
 ol, ul {
 	list-style: none;
 }
