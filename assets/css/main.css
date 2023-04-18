@@ -39,6 +39,12 @@ body {
 	margin-right: auto;
   }
 
+.right {
+	margin-left: auto;
+	display: block;
+	float: right;
+   }
+
 #horizontal ul{
 	list-style: none;
 }
